@@ -5,7 +5,7 @@ La Lune est l'unique satellite naturel de la Terre.
 
 ![Icone de la Lune](lune.png)
 
-Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [flaticon](https://www.flaticon.com/).
+Photo prise par La NASA trouvée sur [Sciences et Vie](https://www.science-et-vie.com/questions-reponses/comment-la-lune-est-elle-nee-9993.html).
 
 ## Caractéristiques
 
